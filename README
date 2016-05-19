@@ -1,4 +1,11 @@
-zip.js is an open-source library (BSD license) for zipping and unzipping files.
+## zip-js
+zip-js is an open-source library (BSD license) for zipping and unzipping files.
 
+This is a bower compatible fork of the original zip.js available at https://github.com/gildas-lormeau/zip.js
+
+## Usage
+bower install zip-js --save
+
+##
 See here for more info:
 http://gildas-lormeau.github.com/zip.js/
